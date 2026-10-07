@@ -1,0 +1,14 @@
+{
+  "name": "Return-Inserter",
+  "version": "1.0.0",
+  "title": "Return Inserter",
+  "author": "AndreusAxolotl",
+  "homepage": "https://github.com/AndreusAxolotl/Return-Inserter",
+  "description": "The latest and most absurd development in inserter technology.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base",
+    "space-age"
+],
+"space_travel_required": true
+}
