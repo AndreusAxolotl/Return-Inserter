@@ -114,7 +114,7 @@ data:extend({
     name = "return-inserter",
     icon = "__Return-Inserter__/graphics/icons/return-inserter.png",
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
-    minable = {mining_time = 0.1, result = "inserter"},
+    minable = {mining_time = 0.1, result = "return-inserter"},
     max_health = 200,
     corpse = "return-inserter-remnants",
     dying_explosion = "inserter-explosion",
